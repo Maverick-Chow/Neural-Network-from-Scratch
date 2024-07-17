@@ -8,5 +8,3 @@ class Layer:
 
     def backward_propagation(self, output_error, learning_rate):
         raise NotImplementedError
-
- 

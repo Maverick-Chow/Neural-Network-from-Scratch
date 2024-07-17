@@ -46,6 +46,3 @@ for i, j in zip(out, out_true):
 print("||====================||")
 print("||  Accuracy : %.2f  ||" % ((correct/test_no)*100))
 print("||====================||")
-    
-
-
